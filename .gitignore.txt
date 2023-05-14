@@ -1,1 +1,1 @@
-*helllooo.txt
+helllooo.*
