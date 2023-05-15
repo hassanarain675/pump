@@ -3,5 +3,3 @@ two
 3 three
 four
 5 five
-six
-7 seven
